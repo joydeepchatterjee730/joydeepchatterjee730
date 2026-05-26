@@ -143,10 +143,7 @@ Figma · Adobe PS · Canva
 
 ## `$ top --contributions`
 
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=joydeepchatterjee730&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
+> 📌 **Pinned repositories below** — check them out for my best work across AI systems, full-stack apps, and real-time platforms.
 </div>
 
 ---
